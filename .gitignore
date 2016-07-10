@@ -1,0 +1,11 @@
+*.exe
+*.exe~
+*.test
+*~
+.git/
+.settings/
+.idea/
+bin/config.json
+log.txt
+debug
+

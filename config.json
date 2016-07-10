@@ -1,0 +1,8 @@
+{
+    "port": "COM6",
+    "notify_port": "COM7",
+    "baud": 9600,
+    "messages" : [
+        "The three laws of Robotics:\n1) A robot may not injure a human being or, through inaction, allow a human being to come to harm\n2) A robot must obey orders givein to it by human beings except where such orders would conflict with the First Law.\n3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law."
+    ]
+}
